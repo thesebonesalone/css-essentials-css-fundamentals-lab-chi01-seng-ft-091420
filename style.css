@@ -11,6 +11,6 @@ img {
 }
 
 #details {
-  display: horizontal;
+  float: left;
   
 }
