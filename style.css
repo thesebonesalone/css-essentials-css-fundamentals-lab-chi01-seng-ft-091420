@@ -9,3 +9,8 @@ h1 {
 img {
   align-content: center;
 }
+
+#details {
+  display: horizontal;
+  
+}
