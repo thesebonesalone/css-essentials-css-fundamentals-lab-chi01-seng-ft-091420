@@ -12,12 +12,9 @@ h1 {
 nav {
   background-color:gray;
   width: 50%;
-  align-content: center;
   padding-left:10px;
   padding-right: 10px;
-  
-  
-}
+  }
 img {
   margin:auto;
   width:100%;
