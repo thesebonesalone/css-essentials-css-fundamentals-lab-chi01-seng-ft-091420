@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0;
 }
-h1 {
+header {
   margin:auto;
   width: 50%;
   color:black;
@@ -11,7 +11,6 @@ h1 {
   }
 nav {
   background-color:gray;
-  width: 50%;
   padding-left:10px;
   padding-right: 10px;
   }
