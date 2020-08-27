@@ -12,5 +12,6 @@ img {
 
 #details {
   float: left;
+  display:block;
   background: red;
 }
